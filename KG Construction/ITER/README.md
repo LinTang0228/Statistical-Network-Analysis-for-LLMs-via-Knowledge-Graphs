@@ -9,4 +9,6 @@ Follow the instructions in the ITER repository https://github.com/fleonce/ITER, 
 
 Then, running commands to evaluate the models on the corresponding dataset. For example:
 
-`python3 evaluate.py --model models/iter-conll04-deberta-large --dataset conll04`
+bash```
+python3 evaluate.py --model models/iter-conll04-deberta-large --dataset conll04
+```
