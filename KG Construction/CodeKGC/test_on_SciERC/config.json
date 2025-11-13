@@ -1,0 +1,10 @@
+{
+    "schema_path": "data/scierc_schema_prompt.py",
+    "ICL_path": "data/scierc_ICL_prompt.py",
+    "example_path": "data/scierc_test_converted.json",
+    "openai_key": "",
+    "engine": "gpt-4",
+    "temperature": 0.1,
+    "max_tokens": 512,
+    "n": 1
+}
