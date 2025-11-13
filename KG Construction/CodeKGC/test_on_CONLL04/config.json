@@ -1,0 +1,10 @@
+{
+    "schema_path": "data/conll04_schema_prompt.py",
+    "ICL_path": "data/conll04_ICL_prompt.py",
+    "example_path": "data/conll04_test_triples.json",
+    "openai_key": "",
+    "engine": "gpt-4",
+    "temperature": 0.1,
+    "max_tokens": 512,
+    "n": 1
+}
