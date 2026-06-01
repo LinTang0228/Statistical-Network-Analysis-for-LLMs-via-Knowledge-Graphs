@@ -7,4 +7,5 @@ Follow the steps below to correctly set up your environment and execute the expe
 **pip**  
 **set TF_ENABLE_ONEDNN_OPTS=0** to avoid oneDNN errors
 **set OPENAI_API_KEY=** 
-**Download GRAPH-RAG GITHUb locally**
+
+Download GRAPH-RAG github locally
